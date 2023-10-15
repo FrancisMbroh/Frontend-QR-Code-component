@@ -33,4 +33,4 @@ Thanks for checking out this front-end coding challenge.
 
 ## Author
 
-- Frontend Mentor - [@Francis_Mbroh](https://www.frontendmentor.io/profile/Francis_Mbroh)
+- Frontend Mentor - [@Francis_Mbroh](https://www.frontendmentor.io/profile/FrancisMbroh)
