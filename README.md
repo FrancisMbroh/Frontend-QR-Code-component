@@ -16,8 +16,7 @@ Thanks for checking out this front-end coding challenge.
 
 ### Screenshot
 
-![<img src="../qr-code-component-main/images/screenshot.jpg"](<img src="../qr-code-component-main/images/screenshot.jpg">)
-
+../qr-code-component-main/images/screenshot.jpg
 
 ### Links
 
