@@ -21,7 +21,7 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-mobilefirst-qrcodecomponent-BN-gj5d4Yb](https://www.frontendmentor.io/solutions/responsive-mobilefirst-qrcodecomponent-BN-gj5d4Yb)
 - Live Site URL: [https://francismbroh.github.io/Frontend-QR-Code-component/](https://francismbroh.github.io/Frontend-QR-Code-component/)
 
 ### Built with
