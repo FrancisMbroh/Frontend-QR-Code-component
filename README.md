@@ -16,7 +16,6 @@ Thanks for checking out this front-end coding challenge.
 
 ### Screenshot
 
-![Screenshot](screenshot.jpg)
 ![screenshot](https://github.com/FrancisMbroh/Frontend-QR-Code-component/assets/147813061/b6421133-5093-45b1-8dd2-0e68385b0e1a)
 
 ### Links
